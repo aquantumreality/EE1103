@@ -1,5 +1,5 @@
-# EE1103
-https://github.com/aquantumreality/EE1103-Numerical-Methods-/tree/main/References%2C%20Links
+# EE1103: Numerical Methods
+
 - Contains all of the material used in EE1103: Numerical Methods (Jan-May 2021) - all assignments with example code, along with questions  and some further material uploaded by Prof. Anil Prabhakhar
 - The various links to websites for reference from the course can be found [here](https://github.com/aquantumreality/EE1103-Numerical-Methods-/tree/main/References%2C%20Links).
 
