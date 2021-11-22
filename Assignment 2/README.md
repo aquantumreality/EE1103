@@ -1,4 +1,4 @@
-A2: Normal distributions
+# Normal distributions
 
  - Generate a sine wave x  as an array of points x[N]
    - Take in 3 arguments as argv: amplitude, freq, number of cycles (M)
