@@ -1,4 +1,4 @@
-# A1: Distributions
+#  Distributions
 
 The learning objectives here are
 
