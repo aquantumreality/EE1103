@@ -1,4 +1,4 @@
-# A4 : Regression
+# Regression
 
 Identify the threshold voltage for the semiconductor device, from its I-V characteristics
 - Read the data from the datafile. 
