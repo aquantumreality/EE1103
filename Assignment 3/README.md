@@ -1,4 +1,4 @@
-# Assignment 3
+# Numerical Integration
 
 - Integrate M cycles of a noisy sine wave and compare the convergence of the integration using the midpoint (M), trapezoid (T) and Simpson's 1/3 rule (S) for different number of intervals (n)
 - Remember to 
